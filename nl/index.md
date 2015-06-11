@@ -1,22 +1,28 @@
 ---
 layout: nl-page
-title: OpenStreetMap - Dé editeerbare!
+title: OpenStreetMap - De editeerbare kaart!
 excerpt: "OpenStreetMap - The editable map of the world!"
 search_omit: true
 ---
-OpenStreetMap (OSM) is a collaborative project to create a free editable map of the entire world. Our community in Belgium is part of the more than 2 million registered users worldwide.
+OpenStreetMap (OSM), of kortweg OSM, is een internationaal open data project met als doel een editeerbare map te maken van de ganse wereld. De Belgische tak maakt deel uit van de meer dan 2 miljoen wereldwijd geregistreerde gebruikers.
 
-# What's this community about?
+# Wat is de OpenStreetMap community?
 
-Our community is about collecting data and contributing it to OpenStreetMap. Most of us are called 'mappers'. With OpenStreetMap, mapping isn't just for professionals anymore, everybody can join us! If you're intrested have a look at our community page.
+Sinds 2004 worden er van over de hele wereld gegevens verzameld over wegen, spoorwegen, rivieren, bossen, zieken-huizen, restaurants, enz. Die gegevens worden opgeslagen in een database die gratis toegankelijke is voor iedereen, wat er voor zorgt dat je zelf aan de slag kan gaan met de beschikbare data. 
 
-# Why build your own maps?
+Onze community werk aan het collecteren, aanpassen en toevoegen van data aan OSM.  De meeste van ons zijn 'mappers'.  Het mappen zelf is niet alleen meer weggelegd voor de meer technische of professionele gebruikers. Iedereen kan onze rangen vervoegen.
 
-First of all good maps aren't always available. Even big companies like Google and TomTom get things wrong sometimes. Compare with an encyclopedia that just a few can edit and wikipedia, that has an whole community contributing articles! OpenStreetMap works in much the same way.
+Het invoeren van informatie en aanpassen van de gegevens steunt volledig op vrijwilligers. Ook als jij de kaart graag anders en beter zou zien... iedereen kan bijdragen!
 
-Secondly, who decides what to map? The government? Big companies? Navigation software companies? Those maps would be pretty boring, they would just contain either 'official' data, just the roads or whatever is profitable to collect. Our community does so much more and creates a much richer dataset. Just have a look at all the cyclists that use OpenStreetMap.
+# Waarom zou je je eigen map willen maken, is google maps niet genoeg?
 
-... and last but not least, we're open. Everybody can download OpenStreetMap data and start experimenting with it. We believe a collaberative mapping project has to be open and publish it's data freely to be successful in the long run. Why would anyone contribute to a project that's just going to keep all your work for themselves?
+In de eerste plaats, goede kaarten zijn niet altijd beschikbaar.  Zelfs grote bedrijven zoals Google en TomTom hebben fouten.  Vergelijk het met een gedrukte encyclopedie, waar maar een paar personen aan mogen werken vs. Wikipedia, waar iedereen kan inspringen.   OSM werkt op gelijkaardige wijze.  Men zegt wel eens : OSM is de wikipedia van de kaart.
+
+In de tweede plaats,  commerciële en andere belangen liggen in de weg van correctheid en compleetheid.   Als enkel de staat of grote bedrijven bepalen wat er op een kaart komt, dan zou het maar een saaie boel zijn waar enkel 'officiële' data op de kaart geraakt.   Enkel wegen die voor hen de moeite zijn.  
+
+Onze community zorgt hier voor een rijke, diverse kaart.  Waar de som van de persoonlijke interesses van de mappers zorgen voor een mix en rijkdom aan informatie waar ieders zijn stukje kan uithalen waarin hij zich interesseert.  Als voorbeeld kan je het rijke netwerk aan wandel en fietsroutes raadplegen, gemaakt door enthousiaste wandelaars en fietsers voor hun avontuurlijke collegas.
+
+Maar vooral: onze data is open.  Iedereen kan zonder al te veel verplichtingen de data download en ermee expirimenteren.  Wij geloven dat een samenwerking zoals deze moet samengaan met gratis ter beschikking stellen van het resultaat om op lange termijn succesvol te blijven.
 
 # Blog
 
