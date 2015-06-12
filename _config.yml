@@ -9,8 +9,8 @@ nl-description: De OpenStreetMap community in België.
 fr-description: La communauté OpenStreetMap en Belgique.
 logo: site-logo.png
 search: true
-# url: //localhost:4000
-url: //osmbe.github.io
+url: //localhost:4000
+#url: //osmbe.github.io
 
 # Jekyll configuration
 
@@ -37,12 +37,12 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: OSM.be
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: info@osm.be
   disqus-shortname:
-  twitter: #username
-  facebook: #username
+  twitter: osm_be
+  facebook: groups/1419016881706058
   github: #username
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
